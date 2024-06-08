@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am Adewale Tolani
-I am a Data Analyst 
+I am Adewale Tolani and I am a Data Analyst 
 
 Here are some ideas to get you started:
 
