@@ -2,7 +2,7 @@
 
 I am Adewale Tolani and I am a Data Analyst 
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on building my foundational skills in data analytics by working on small data projects and participating in online courses...
 - 🌱 I’m currently learning SQL, Excel and data visualization techniques using tools like Power BI
