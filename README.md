@@ -9,7 +9,7 @@ About me:
 - 👯 I’m looking to collaborate on beginner-friendly data analytics projects that involve cleaning, analyzing, and visualizing datasets to gain insights
 - 🤔 I’m looking for help with finding real-world datasets to practice on and understanding best practices in data analytics
 - 💬 Ask me about why I decided to pursue a career in data analytics and the resources I've found helpful in my learning journey
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/adewale-tolani-013bb723)
+- 📫 How to reach me: [LinkedIn](/www.linkedin.com/in/adewale-tolani-013bb723/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles
 -->
