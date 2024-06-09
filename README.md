@@ -12,5 +12,5 @@ About me:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adewale-tolani-013bb723)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles
-- Contact: [Gmail]()
+- Contact: [Gmail](mailto:w.s.tolani@gmail.com)
 - -->
